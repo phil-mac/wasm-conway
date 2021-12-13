@@ -24,7 +24,7 @@
   "license": "(MIT OR Apache-2.0)",
   "homepage": "https://github.com/sn99/wasm-conway/readme",
   "dependencies": {
-    "wasm-conway": "file:../pkg"
+    "wasm-conway": "file:./pkg"
   },
   "devDependencies": {
     "hello-wasm-pack": "^0.1.0",
