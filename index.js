@@ -1,5 +1,5 @@
-import {Universe, Cell} from "wasm-conway";
-import {memory} from "wasm-conway/wasm_conway_bg";
+import {Universe, Cell} from "./pkg/wasm-conway";
+import {memory} from "./pkg/wasm-conway/wasm_conway_bg";
 
 const CELL_SIZE = 5; // px
 const GRID_COLOR = "#CCCCCC";
